@@ -14,12 +14,22 @@ If both players choose the same option, the game becomes a "tie".
 
 
 
+## Project divide amoung the Group members:
+
+The project is divided into four main parts:
 
 
 
-### Roles
+i.        Game Logic and Backend:
+        - Implements game logic to determine the winner based on player choices.
+        
+ii.       User Interface:
+        - Designs and implements the web interface for player interaction and result display.
+        
+iii.      Testing and Quality Assurance: 
+        - Ensures game functionality through thorough testing and issue debugging.
 
-- **Project Manager/Release Coordinator**: Oversees project development, coordinates tasks, and manages the release process.
-- **Developer**: Implements the game logic and user interface.
-- **QA Tester**: Tests the game for bugs and ensures quality.
+iv.       Documentation and Deployment:
+        - Provides user and developer documentation.
+        - Manages the deployment process for online accessibility.
 
