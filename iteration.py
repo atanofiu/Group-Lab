@@ -29,9 +29,13 @@ def play_game():
     print("You chose:", player_choice)
     print("The computer chose:", computer_choice)
     print(determine_winner(player_choice, computer_choice))
-    print("Thanks for playing!")
+
+    play_again = input("Do you want to play again? (yes/no): ").lower()
+    if play_again == 'yes':
+       play_game()
+    else:
+        print("Thanks for playing!")
 
 if __name__ == "__main__":
     print("Welcome to the Rock, Paper, Scissors game!")
     play_game()
-
