@@ -1,11 +1,10 @@
 Project Scope:
 
-This project is about making a simple web app for playing "Rock, Paper, Scissors". 
-Two players can pick rock, paper, or scissors, and the winner is decided based on the game's rules. 
-The game shows what each player picked and who won. 
-
-We'll use Python for the game's logic, Flask for building the web app, and HTML/CSS for the user interface.
-
-This project keeps things basic. 
-It won't have advanced features like multiplayer or AI opponents. 
+This project is about making a simple web app for playing "Rock, Paper, Scissors"
+Two players can pick rock, paper, or scissors, and the winner is decided based on the game's rules.
+The game shows what each player picked and who won.
+We '11 use Python for the game's logic, and drawio Flowchart description.
+This project keeps things basic.
+It won't have advanced features like multiplayer.
 We're focusing on simplicity, making sure it works well, and being easy to use.
+
